@@ -8,7 +8,7 @@
    - [ ] Enable vi mode to prompt.
    - [ ] Add different cursors on different modes.
 - Bash configurations.
-   - [ ] Add .bashrc.
+   - [x] Add .bashrc.
    - [ ] Aliases: Add aliases.
    - [ ] Prompt: Configure PS1 prompt.
    - [ ] Prompt: Enable 'vi mode'.
