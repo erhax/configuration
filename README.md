@@ -9,7 +9,7 @@
    - [ ] Add different cursors on different modes.
 - Bash configurations.
    - [x] Add .bashrc.
-   - [ ] Aliases: Add aliases.
+   - [w] Aliases: Add aliases.
    - [ ] Prompt: Configure PS1 prompt.
    - [ ] Prompt: Enable 'vi mode'.
    - [ ] Completions: Add Git bash-completion.
@@ -55,6 +55,7 @@
    -  [ ] Ensure NeoVim installed.
    -  [ ] Ensure AG installed.
    -  [ ] Ensure FZF installed.
+   -  [ ] Ensure tree installed.
    -  [ ] Clone repository.
    -  [ ] Make symlinks to user home for .bashrc.
    -  [ ] Make symlinks to user home for .vimrc.
